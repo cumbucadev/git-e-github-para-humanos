@@ -57,7 +57,7 @@ Os **forks** são extremamente úteis no desenvolvimento de software, especialme
 
 Além de facilitar contribuições, **forks** também são usados para explorar e modificar projetos livremente. Como são cópias independentes, você pode testar ideias sem se preocupar com impactos no repositório original. Muitas pessoas utilizam **forks** para criar suas próprias versões de um projeto, personalizando-o conforme suas necessidades ou dando continuidade ao desenvolvimento de um código desatualizado.
 
-Outro benefício importante é a possibilidade de aprendizado. Se você quer entender melhor como um determinado software funciona, pode criar um fork e estudar o código sem medo de causar problemas. Isso torna os **forks** uma excelente ferramenta tanto para quem quer contribuir para projetos open source quanto para quem deseja estudar códigos já existentes.
+Outro benefício importante é a possibilidade de aprendizado. Se você quer entender melhor como um determinado software funciona, pode criar um fork e estudar o código sem medo de causar problemas. Isso torna os **forks** uma excelente ferramenta tanto para quem quer contribuir para projetos _Open Source_ quanto para quem deseja estudar códigos já existentes.
 
 Porém, nem sempre um **fork** é necessário. Se você já tem permissões no repositório original, por exemplo, pode criar um branch diretamente nele, sem precisar de uma cópia separada. O mesmo vale para casos em que você quer apenas testar o código localmente sem modificá-lo ou contribuir de volta — nesse cenário, basta clonar o repositório.
 
@@ -66,7 +66,7 @@ Porém, nem sempre um **fork** é necessário. Se você já tem permissões no r
 
 Se você estivesse apenas usando o Git sem o GitHub, para conseguir algo semelhante a um fork, precisaria seguir alguns passos manualmente: primeiro, clonar o repositório (<mark style="color:purple;">`git`</mark><mark style="color:orange;">`clone`</mark>), depois criar um novo repositório em outro lugar, adicionar esse novo repositório como um remoto (<mark style="color:purple;">`git`</mark><mark style="color:orange;">`remote add`</mark>) e, então, gerenciar suas alterações a partir daí.
 
-O GitHub facilita esse processo tornando o **fork** um recurso nativo da plataforma. Com apenas um clique, você cria automaticamente uma cópia independente de um repositório dentro da sua própria conta, sem precisar configurar nada manualmente. Isso torna a colaboração em projetos open source muito mais simples e acessível para qualquer pessoa.
+O GitHub facilita esse processo tornando o **fork** um recurso nativo da plataforma. Com apenas um clique, você cria automaticamente uma cópia independente de um repositório dentro da sua própria conta, sem precisar configurar nada manualmente. Isso torna a colaboração em projetos _Open Source_ muito mais simples e acessível para qualquer pessoa.
 {% endhint %}
 
 ***
