@@ -1,6 +1,6 @@
 # Forks e Pull Requests
 
-Forks e Pull Requests são ferramentas essenciais no GitHub para a colaboração em projetos open source. O **fork** permite criar uma cópia de um repositório para que você possa realizar alterações sem impactar o projeto original, enquanto o **Pull Request (PR)** serve para sugerir essas modificações ao repositório principal.
+Forks e Pull Requests são ferramentas essenciais no GitHub para a colaboração em projetos _Open Source_. O **fork** permite criar uma cópia de um repositório para que você possa realizar alterações sem impactar o projeto original, enquanto o **Pull Request (PR)** serve para sugerir essas modificações ao repositório principal.
 
 Analisando o processo de forma geral, as etapas são as seguintes:
 
