@@ -40,7 +40,7 @@
 
 * [3.1 Explorando Operações Locais do Git](3.-operacoes-locais-basicas-no-git/3.1-explorando-operacoes-locais-do-git.md)
 * [3.2 Salvando Alterações Localmente](3.-operacoes-locais-basicas-no-git/3.2-salvando-alteracoes-localmente/README.md)
-  * [3.2.1 Adicionando Arquivos ao Controle de Versão via \`git add\`](3.-operacoes-locais-basicas-no-git/3.2-salvando-alteracoes-localmente/3.2.1-adicionando-arquivos-ao-controle-de-versao-via-git-add.md)
+  * [3.2.1 Adicionando Arquivos à Área de Preparação via \`git add\`](3.-operacoes-locais-basicas-no-git/3.2-salvando-alteracoes-localmente/3.2.1-adicionando-arquivos-ao-controle-de-versao-via-git-add.md)
   * [3.2.2 Verificando o Estado do Repositório via \`git status\`](3.-operacoes-locais-basicas-no-git/3.2-salvando-alteracoes-localmente/3.2.2-verificando-o-estado-do-repositorio-via-git-status.md)
   * [3.2.3 Criando Commits via \`git commit\`](3.-operacoes-locais-basicas-no-git/3.2-salvando-alteracoes-localmente/3.2.3-criando-commits-via-git-commit.md)
   * [3.2.4 Visualizando o Histórico do Repositório via \`git log\`](3.-operacoes-locais-basicas-no-git/3.2-salvando-alteracoes-localmente/3.2.4-visualizando-o-historico-do-repositorio-via-git-log.md)
