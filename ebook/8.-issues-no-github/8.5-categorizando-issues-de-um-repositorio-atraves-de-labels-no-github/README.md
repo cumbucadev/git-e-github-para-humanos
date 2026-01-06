@@ -22,7 +22,7 @@ Ao criar ou editar uma label, você precisa preencher três campos:
 
 Por padrão, o GitHub fornece algumas labels predefinidas em novos repositórios:
 
-<figure><img src="../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption><p>Labels padrões do GitHub</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0269.png" alt=""><figcaption><p>Labels padrões do GitHub</p></figcaption></figure>
 
 | Label                | Tradução            | Descrição                                                                               |
 | -------------------- | ------------------- | --------------------------------------------------------------------------------------- |
@@ -60,8 +60,8 @@ Agora que você aprendeu sobre labels, siga os passos abaixo para praticar.
 
 1. Acesse a issue que você criou anteriormente "Adicionar imagem de saudação ao README.md" no seu repositório hello-world.
 2. No menu lateral direito, clique na engrenagem ao lado da palavra **Labels**.\
-   ![](<../../.gitbook/assets/image (4) (2).png>)
+   ![](<../../.gitbook/assets/0294.png>)
 3. Selecione a label **documentation (documentação)**.\
-   ![](<../../.gitbook/assets/image (3) (2).png>)
+   ![](<../../.gitbook/assets/0283.png>)
 4. Verifique se a label foi adicionada corretamente.\
-   ![](<../../.gitbook/assets/image (5) (2).png>)
+   ![](<../../.gitbook/assets/0304.png>)
