@@ -35,7 +35,7 @@ Ferramentas colaborativas como Google Docs surgiram para resolver esses problema
 
 Além disso, mantêm um histórico completo de versões, mostrando quem alterou o quê e quando, e permitindo reverter mudanças com facilidade.
 
-<figure><img src="../../.gitbook/assets/Histórico de Versão GDocs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Historico de Versao GDocs.png" alt=""><figcaption></figcaption></figure>
 
 Curiosamente, os mesmos desafios enfrentados na escrita de documentos também aconteciam no desenvolvimento de software antes dos sistemas de controle de versão.
 

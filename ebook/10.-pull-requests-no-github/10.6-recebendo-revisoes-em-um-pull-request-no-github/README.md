@@ -140,7 +140,7 @@ Opcionalmente, **c**omente no PR mencionando `@nome_da_pessoa_revisora` e forne�
 
 O fluxo segue até que o PR seja aprovado ou até que haja uma decisão de que ele não faz sentido e deve ser fechado.
 
-<figure><img src="../../.gitbook/assets/Fluxo de Revisão de PR (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Fluxo de Revisao de PR (1).png" alt=""><figcaption></figcaption></figure>
 
 Cada projeto pode ter regras diferentes sobre a quantidade de aprovações necessárias para que o merge seja liberado. Algumas vezes, uma única aprovação é suficiente; em outros casos, pode ser necessário que todas as pessoas revisoras aprovem.
 

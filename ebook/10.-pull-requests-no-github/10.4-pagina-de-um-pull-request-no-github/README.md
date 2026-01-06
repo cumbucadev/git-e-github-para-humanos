@@ -2,13 +2,13 @@
 
 Agora que você criou seu primeiro PR, vamos explorar os principais componentes da página de exibição e entender como interagir com eles. Abaixo, abordamos as seções mais importantes da interface para que você possa navegar de maneira mais eficiente.
 
-<figure><img src="../../.gitbook/assets/86 PR recém criado.png" alt=""><figcaption><p>PR <a href="https://github.com/aprendizCumbucaDev/hello-world/pull/2">https://github.com/aprendizCumbucaDev/hello-world/pull/2</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/86 PR recem criado.png" alt=""><figcaption><p>PR <a href="https://github.com/aprendizCumbucaDev/hello-world/pull/2">https://github.com/aprendizCumbucaDev/hello-world/pull/2</a></p></figcaption></figure>
 
 ## Cabeçalho
 
 A seção de **Cabeçalho** contém as informações essenciais sobre o PR, fornecendo uma visão geral rápida e permitindo interações básicas com o PR.
 
-<figure><img src="../../.gitbook/assets/88 Pg PR- cabeçalho.png" alt=""><figcaption><p>Cabeçalho do PR PR <a href="https://github.com/aprendizCumbucaDev/hello-world/pull/2">https://github.com/aprendizCumbucaDev/hello-world/pull/2</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/88 Pg PR- cabecalho.png" alt=""><figcaption><p>Cabeçalho do PR PR <a href="https://github.com/aprendizCumbucaDev/hello-world/pull/2">https://github.com/aprendizCumbucaDev/hello-world/pull/2</a></p></figcaption></figure>
 
 * **Título do PR**: Indica a mudança que será feita no repositório. Neste caso: `Adicionando GIF de boas-vindas ao README.md`.
 * **Número do PR**: Aparece ao lado do título, indicando o número único da issue dentro do repositório. Neste caso: `#2`.

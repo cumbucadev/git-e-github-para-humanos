@@ -17,7 +17,7 @@ Parabéns por criar seu primeiro repositório! A aba **Code** é o coração do 
   * **Privado:** Apenas você e as pessoas que você convidar podem ver e acessar o repositório.
 * **Descrição do Repositório:** Além do arquivo README, você pode adicionar uma breve descrição do seu repositório diretamente na página principal. Essa descrição aparece logo abaixo do nome do repositório e complementa as informações do README.
 
-<figure><img src="../../.gitbook/assets/Visibilidade, main branch, descrição.png" alt="Interface do GitHub exibindo as configurações básicas de um repositório. As seções destacadas mostram o branch principal, a visibilidade (pública ou privada) e uma breve descrição do projeto."><figcaption><p>Visibilidade, branch principal e descrição do repositório</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Visibilidade, main branch, descricao.png" alt="Interface do GitHub exibindo as configurações básicas de um repositório. As seções destacadas mostram o branch principal, a visibilidade (pública ou privada) e uma breve descrição do projeto."><figcaption><p>Visibilidade, branch principal e descrição do repositório</p></figcaption></figure>
 
 ## **Lista de Arquivos**
 
@@ -53,7 +53,7 @@ Acima da lista de arquivos, você encontrará um cabeçalho que resume as inform
 
 Uma funcionalidade super útil do GitHub é a exibição automática do conteúdo do arquivo README.md na página principal do repositório. Isso significa que, ao acessar seu repositório, as pessoas verão imediatamente uma descrição concisa do seu projeto, sem precisar procurar pelo arquivo.
 
-<figure><img src="../../.gitbook/assets/Exibição automática do README.png" alt="Interface do GitHub mostrando a exibição automática do conteúdo do arquivo README.md na página principal do repositório &#x27;hello-world&#x27;, logo abaixa da lista de arquivos."><figcaption><p>Exibição Automática do README na página principal do repositório</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Exibicao automatica do README.png" alt="Interface do GitHub mostrando a exibição automática do conteúdo do arquivo README.md na página principal do repositório &#x27;hello-world&#x27;, logo abaixa da lista de arquivos."><figcaption><p>Exibição Automática do README na página principal do repositório</p></figcaption></figure>
 
 ## Hora de Explorar
 
