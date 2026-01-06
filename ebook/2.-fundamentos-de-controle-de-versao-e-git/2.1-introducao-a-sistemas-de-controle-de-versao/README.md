@@ -19,7 +19,7 @@ layout:
 
 Você consegue se lembrar — ou imaginar — como era pedir para alguém revisar um documento antes do surgimento de ferramentas como Google Docs ou Microsoft Word Online?
 
-<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/tweet-1014533073021620224.png" alt="" width="375"><figcaption><p><a href="https://twitter.com/anttrindade/status/1014533073021620224?s=20">https://twitter.com/anttrindade/status/1014533073021620224</a></p></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/505.png" alt="" width="375"><figcaption><p><a href="https://twitter.com/anttrindade/status/1014533073021620224?s=20">https://twitter.com/anttrindade/status/1014533073021620224</a></p></figcaption></figure></div>
 
 A colaboração em documentos muitas vezes exigia o envio de versões por e-mail ou compartilhamento físico de arquivos em dispositivos de armazenamento, como pen drives. Isso tornava o processo lento, sujeito a confusões com múltiplas versões e erros de sincronização.
 
@@ -27,15 +27,15 @@ E se fosse preciso voltar a uma versão anterior? Era necessário abrir cada arq
 
 Escrever em grupo também era um desafio. Uma estratégia comum era cada pessoa usar uma cor diferente para identificar suas contribuições. Os arquivos iam e voltavam, acumulando edições e, muitas vezes, problemas. Um pouco rudimentar, não acha?
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption><p>Como os Maias e Incas trabalhavam antigamente (risos!)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/270.png" alt=""><figcaption><p>Como os Maias e Incas trabalhavam antigamente (risos!)</p></figcaption></figure>
 
 Ferramentas colaborativas como Google Docs surgiram para resolver esses problemas. Elas permitem escrever, revisar e acompanhar alterações em tempo real, com várias pessoas ao mesmo tempo.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-16 at 16.58.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/497.png" alt=""><figcaption></figcaption></figure>
 
 Além disso, mantêm um histórico completo de versões, mostrando quem alterou o quê e quando, e permitindo reverter mudanças com facilidade.
 
-<figure><img src="../../.gitbook/assets/Histórico de Versão GDocs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/209.png" alt=""><figcaption></figcaption></figure>
 
 Curiosamente, os mesmos desafios enfrentados na escrita de documentos também aconteciam no desenvolvimento de software antes dos sistemas de controle de versão.
 

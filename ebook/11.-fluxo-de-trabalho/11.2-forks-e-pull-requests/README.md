@@ -16,11 +16,11 @@ Vamos explorar um pouco de cada uma dessas etapas a seguir.
 
 O primeiro passo é escolher o repositório do qual deseja fazer um fork.
 
-<figure><img src="../../.gitbook/assets/workflow com fork 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/510.png" alt=""><figcaption></figcaption></figure>
 
 Acesse a página do repositório no GitHub e clique no botão **Fork**. Isso criará uma cópia do repositório original na sua conta, permitindo que você faça modificações sem alterar o projeto principal.
 
-<figure><img src="../../.gitbook/assets/workflow com fork 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/511.png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Clonando o Fork
 
@@ -31,15 +31,15 @@ Pensando da perspectiva do seu fork, a nomenclatura utilizada é:
 
 Para sugerir mudanças no **upstream**, primeiro é necessário clonar o seu fork localmente. Execute o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">clone</mark> <mark style="color:green;">repositório.</mark>
 
-<figure><img src="../../.gitbook/assets/workflow com fork 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/512.png" alt=""><figcaption></figcaption></figure>
 
 O GitHub enviará uma cópia do seu **origin** para seu computador.
 
-<figure><img src="../../.gitbook/assets/workflow com fork 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/514.png" alt=""><figcaption></figcaption></figure>
 
 Essa cópia será armazenada automaticamente no seu ambiente local.
 
-<figure><img src="../../.gitbook/assets/workflow com fork 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/515.png" alt=""><figcaption></figcaption></figure>
 
 Agora, você tem uma versão local do repositório e pode começar a fazer alterações.
 
@@ -47,17 +47,17 @@ Agora, você tem uma versão local do repositório e pode começar a fazer alter
 
 Edite os arquivos conforme necessário e salve as mudanças.
 
-<figure><img src="../../.gitbook/assets/workflow com fork 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/516.png" alt=""><figcaption></figcaption></figure>
 
 Em seguida, envie essas alterações para o seu repositório remoto (**origin**) no GitHub.
 
-<figure><img src="../../.gitbook/assets/workflow com fork 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/517.png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Criando um Pull Request
 
 Assim que suas mudanças estiverem disponíveis no GitHub no seu repositório (**origin**), você poderá abrir um **Pull Request (PR)** para sugerir essas alterações ao repositório original (**upstream**).
 
-<figure><img src="../../.gitbook/assets/workflow com fork 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/518.png" alt=""><figcaption></figcaption></figure>
 
 Se o PR for aprovado pelas pessoas mantenedoras do repositório original, suas modificações serão incorporadas ao branch principal do **upstream**.
 
