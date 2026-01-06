@@ -8,7 +8,7 @@ Compreender essas configurações é fundamental para garantir que você tenha c
 
 ## Como acessar a aba de Settings
 
-<figure><img src="../../.gitbook/assets/29 Aba Settings.png" alt=""><figcaption><p>Aba settings de um repositório</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0021.png" alt=""><figcaption><p>Aba settings de um repositório</p></figcaption></figure>
 
 ### **Via página principal do repositório**
 
