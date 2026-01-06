@@ -4,7 +4,7 @@ Agora que já clonamos o repositório para nossa máquina, é hora de implementa
 
 Você se lembra que no GitHub você editou o código dos arquivos Markdown diretamente online? Isso é feito por meio de um editor de código, mas o editor do GitHub só funciona quando estamos online, o que pode não ser ideal em todas as situações.
 
-<figure><img src="../../../.gitbook/assets/Editar README pagina.png" alt=""><figcaption><p>Editor de código do GitHub</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/0190.png" alt=""><figcaption><p>Editor de código do GitHub</p></figcaption></figure>
 
 Por isso, é importante ter um editor de código instalado no seu computador, que permite editar os arquivos localmente e realizar modificações mesmo quando você não estiver conectado à internet. Além disso, usar um editor de código local oferece mais flexibilidade, recursos avançados e uma experiência mais eficiente.
 

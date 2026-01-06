@@ -8,7 +8,7 @@ description: >-
 
 
 
-<figure><img src="../../.gitbook/assets/GITU,BUCA MELHORADO).png" alt=""><figcaption><p>Aprender sobre o Git é com a Cumbuca Dev! <span data-gb-custom-inline data-tag="emoji" data-code="1f49c">💜</span><span data-gb-custom-inline data-tag="emoji" data-code="1f965">🥥</span></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0205.png" alt=""><figcaption><p>Aprender sobre o Git é com a Cumbuca Dev! <span data-gb-custom-inline data-tag="emoji" data-code="1f49c">💜</span><span data-gb-custom-inline data-tag="emoji" data-code="1f965">🥥</span></p></figcaption></figure>
 
 Antes de começar a usar o Git, você precisará instalá-lo no seu computador. A instalação varia de acordo com o sistema operacional que você está usando. Abaixo, você encontrará instruções para os três sistemas operacionais mais comuns. **Siga apenas as instruções que correspondem ao seu caso:**
 
