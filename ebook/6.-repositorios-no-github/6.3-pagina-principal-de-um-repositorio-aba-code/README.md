@@ -1,4 +1,4 @@
-# Aba Code: Página Principal do Repositório
+# 6.3 Página Principal de um Repositório: Aba Code
 
 Parabéns por criar seu primeiro repositório! A aba **Code** é o coração do seu projeto no GitHub, onde você encontrará todos os arquivos que compõem seu código. Vamos explorar cada parte em detalhes.
 
@@ -31,7 +31,7 @@ Ao lado de cada arquivo, você verá informações cruciais como:
 * **Mensagem do Último Commit:** Descrição da última modificação no arquivo.
 * **Data do Último Commit:** Quando foi a última alteração realizada no arquivo. Isso é útil para acompanhar o histórico de mudanças e identificar a versão mais recente.
 
-<figure><img src="../../.gitbook/assets/0183.png" alt="Interface do GitHub da aba code do repositório &#x27;hello-world&#x27;. Destaque para as informações de cada arquivo na lista de arquivos do repositório. Mostra-se o nome de cada arquivo, a mensagem descrevendo a última modificação e quando foi feita a última alteração. No exemplo, apenas o arquivo README.md está presente."><figcaption><p>Informações de cada arquivo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0183 (1).png" alt="Interface do GitHub da aba code do repositório &#x27;hello-world&#x27;. Destaque para as informações de cada arquivo na lista de arquivos do repositório. Mostra-se o nome de cada arquivo, a mensagem descrevendo a última modificação e quando foi feita a última alteração. No exemplo, apenas o arquivo README.md está presente."><figcaption><p>Informações de cada arquivo</p></figcaption></figure>
 
 Mas e de onde veio essa mensagem `initial commit`?
 
