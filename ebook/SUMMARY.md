@@ -14,9 +14,9 @@
 
 ## 1. Conversando com o computador
 
-* [1.1 Dando ordens via linhas de comando](1.-conversando-com-o-computador/1.1-dando-ordens-via-linhas-de-comando.md)
-* [1.2 Sistemas Operacionais](1.-conversando-com-o-computador/1.2-sistemas-operacionais.md)
-* [1.3 Como abrir o terminal](1.-conversando-com-o-computador/1.3-como-abrir-o-terminal.md)
+* [1.1 O cérebro do computado: Sistema Operacional](1.-conversando-com-o-computador/1.1-o-cerebro-do-computado-sistema-operacional.md)
+* [1.2 Dando ordens ao computador via linhas de comando](1.-conversando-com-o-computador/1.2-dando-ordens-ao-computador-via-linhas-de-comando.md)
+* [1.3 Familiarizando com o terminal](1.-conversando-com-o-computador/1.3-familiarizando-com-o-terminal.md)
 * [1.4 Principais comandos](1.-conversando-com-o-computador/1.4-principais-comandos.md)
 * [1.5 Sua vez!](1.-conversando-com-o-computador/1.5-sua-vez.md)
 * [1.6 Links Úteis: Capítulo 1](1.-conversando-com-o-computador/1.6-links-uteis-capitulo-1.md)
