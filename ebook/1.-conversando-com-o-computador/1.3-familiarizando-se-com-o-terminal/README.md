@@ -17,3 +17,9 @@ A forma de abrir o terminal varia de acordo com o sistema operacional. No macOS 
 Também existem diferenças entre os sistemas operacionais quando falamos dos comandos em si. De forma geral, macOS e Linux compartilham muitos comandos em comum, enquanto o Windows usa alguns nomes e comportamentos diferentes. Essas diferenças existem, mas não precisam ser motivo de preocupação agora. Ao longo do livro, vamos deixar claro quando algo muda de um sistema para outro.
 
 A partir daqui, vamos começar pelo básico: aprender como abrir o terminal em cada sistema operacional. Esse será o primeiro passo prático para colocar tudo isso em ação.
+
+De acordo com o sistema operacional do seu computador, leia a seção correspondente (não é necessário ler todas):
+
+* [1.3.1-abrindo-o-terminal-no-windows.md](1.3.1-abrindo-o-terminal-no-windows.md "mention")
+* [1.3.2-abrindo-o-terminal-no-macos.md](1.3.2-abrindo-o-terminal-no-macos.md "mention")
+* [1.3.3-abrindo-o-terminal-no-linux.md](1.3.3-abrindo-o-terminal-no-linux.md "mention")

@@ -22,6 +22,7 @@
   * [1.3.2 Abrindo o terminal no MacOS](1.-conversando-com-o-computador/1.3-familiarizando-se-com-o-terminal/1.3.2-abrindo-o-terminal-no-macos.md)
   * [1.3.3 Abrindo o terminal no Linux](1.-conversando-com-o-computador/1.3-familiarizando-se-com-o-terminal/1.3.3-abrindo-o-terminal-no-linux.md)
 * [1.4 Principais comandos](1.-conversando-com-o-computador/1.4-principais-comandos.md)
+* [1.5 O que acontece quando você fecha o terminal](1.-conversando-com-o-computador/1.5-o-que-acontece-quando-voce-fecha-o-terminal.md)
 * [1.5 Sua vez!](1.-conversando-com-o-computador/1.5-sua-vez.md)
 * [1.6 Links Úteis: Capítulo 1](1.-conversando-com-o-computador/1.6-links-uteis-capitulo-1.md)
 * [1.7 Glossário: Capítulo 1](1.-conversando-com-o-computador/1.7-glossario-capitulo-1.md)
