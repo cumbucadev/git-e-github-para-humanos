@@ -1,2 +1,4 @@
-# 1.2 A Razão por Trás Deste Livro
+# A razão por trás deste livro
 
+* escassez de material didático de verdade
+* razão do nome
