@@ -26,9 +26,16 @@
   * [1.4.2 Manipulação de arquivos e pastas](1.-conversando-com-o-computador/1.4-principais-comandos/1.4.2-manipulacao-de-arquivos-e-pastas.md)
   * [1.4.3 Tabela de comandos](1.-conversando-com-o-computador/1.4-principais-comandos/1.4.3-tabela-de-comandos.md)
 * [1.5 O que acontece quando você fecha o terminal](1.-conversando-com-o-computador/1.5-o-que-acontece-quando-voce-fecha-o-terminal.md)
-* [1.6 Sua vez!](1.-conversando-com-o-computador/1.6-sua-vez.md)
-* [1.7 Links Úteis: Capítulo 1](1.-conversando-com-o-computador/1.7-links-uteis-capitulo-1.md)
-* [1.8 Glossário: Capítulo 1](1.-conversando-com-o-computador/1.8-glossario-capitulo-1.md)
+* [1.6 Sua vez!](1.-conversando-com-o-computador/1.6-sua-vez/README.md)
+  * [Exercício 1](1.-conversando-com-o-computador/1.6-sua-vez/exercicio-1.md)
+  * [Solução Exercício 1](1.-conversando-com-o-computador/1.6-sua-vez/solucao-exercicio-1.md)
+  * [Exercício 2](1.-conversando-com-o-computador/1.6-sua-vez/exercicio-2.md)
+  * [Solução Exercício 2](1.-conversando-com-o-computador/1.6-sua-vez/solucao-exercicio-2.md)
+  * [Exercício 3](1.-conversando-com-o-computador/1.6-sua-vez/exercicio-3.md)
+  * [Solução Exercício 3](1.-conversando-com-o-computador/1.6-sua-vez/solucao-exercicio-3.md)
+* [1.7 O que é importante levar deste capítulo](1.-conversando-com-o-computador/1.7-o-que-e-importante-levar-deste-capitulo.md)
+* [1.8 Links Úteis: Capítulo 1](1.-conversando-com-o-computador/1.8-links-uteis-capitulo-1.md)
+* [1.9 Glossário: Capítulo 1](1.-conversando-com-o-computador/1.9-glossario-capitulo-1.md)
 
 ## 2 Sistemas de Controle de Versão
 
