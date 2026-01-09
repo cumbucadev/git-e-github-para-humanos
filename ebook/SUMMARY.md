@@ -23,7 +23,7 @@
   * [1.3.3 Abrindo o terminal no Linux](1.-conversando-com-o-computador/1.3-familiarizando-se-com-o-terminal/1.3.3-abrindo-o-terminal-no-linux.md)
 * [1.4 Principais comandos](1.-conversando-com-o-computador/1.4-principais-comandos/README.md)
   * [1.4.1 Navegando pelo computador](1.-conversando-com-o-computador/1.4-principais-comandos/1.4.1-navegando-pelo-computador.md)
-  * [1.4.2 Manipulação de arquivos](1.-conversando-com-o-computador/1.4-principais-comandos/1.4.2-manipulacao-de-arquivos.md)
+  * [1.4.2 Manipulação de arquivos e pastas](1.-conversando-com-o-computador/1.4-principais-comandos/1.4.2-manipulacao-de-arquivos-e-pastas.md)
   * [1.4.3 Gerenciamento de pacotes](1.-conversando-com-o-computador/1.4-principais-comandos/1.4.3-gerenciamento-de-pacotes.md)
   * [1.4.4 Tabela de comandos](1.-conversando-com-o-computador/1.4-principais-comandos/1.4.4-tabela-de-comandos.md)
 * [1.5 O que acontece quando você fecha o terminal](1.-conversando-com-o-computador/1.5-o-que-acontece-quando-voce-fecha-o-terminal.md)
