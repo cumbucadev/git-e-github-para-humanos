@@ -41,7 +41,7 @@
 ## 2 Sistemas de Controle de Versão
 
 * [2.1 Sobre este capítulo](2-sistemas-de-controle-de-versao/2.1-sobre-este-capitulo.md)
-* [2.2 Antes dos Sistemas de Controle de Versão](2-sistemas-de-controle-de-versao/2.1-introducao-a-sistemas-de-controle-de-versao.md)
+* [2.2 Desafios de trabalhar com arquivos](2-sistemas-de-controle-de-versao/2.1-introducao-a-sistemas-de-controle-de-versao.md)
 * [2.3 O quê são Sistemas de Controle de Versão?](2-sistemas-de-controle-de-versao/2.1-introducao-a-sistemas-de-controle-de-versao-1.md)
 * [2.4 Sistemas Centralizados](2-sistemas-de-controle-de-versao/2.1.1-sistemas-de-controle-de-versao-centralizados.md)
 * [2.5 Sistemas Distribuídos](2-sistemas-de-controle-de-versao/2.1.2-sistemas-de-controle-de-versao-distribuidos.md)
