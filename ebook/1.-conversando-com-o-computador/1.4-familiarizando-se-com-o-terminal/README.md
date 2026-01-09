@@ -1,4 +1,4 @@
-# 1.3 Familiarizando-se com o terminal
+# 1.4 Familiarizando-se com o terminal
 
 Agora que já falamos sobre como dar ordens ao computador por meio de texto, é hora de conhecer o lugar onde essa conversa acontece: o **terminal**.
 
@@ -65,6 +65,6 @@ Também existem diferenças entre os sistemas operacionais quando falamos dos co
 
 Agora que você já sabe o que é o terminal e como funciona essa conversa com o computador, vamos partir para a prática. O primeiro passo é simples e essencial: **abrir o terminal** no seu computador. De acordo com o sistema operacional do seu computador, leia a seção correspondente (não é necessário ler todas):
 
-* [1.3.1-abrindo-o-terminal-no-windows.md](1.3.1-abrindo-o-terminal-no-windows.md "mention")
-* [1.3.2-abrindo-o-terminal-no-macos.md](1.3.2-abrindo-o-terminal-no-macos.md "mention")
-* [1.3.3-abrindo-o-terminal-no-linux.md](1.3.3-abrindo-o-terminal-no-linux.md "mention")
+* [1.4.1-abrindo-o-terminal-no-windows.md](1.4.1-abrindo-o-terminal-no-windows.md "mention")
+* [1.4.2-abrindo-o-terminal-no-macos.md](1.4.2-abrindo-o-terminal-no-macos.md "mention")
+* [1.4.3-abrindo-o-terminal-no-linux.md](1.4.3-abrindo-o-terminal-no-linux.md "mention")
