@@ -70,7 +70,8 @@ Cada pessoa começa copiando os arquivos do projeto para sua máquina local. Ass
 
 Depois de fazer suas alterações, como ajustar um texto, modificar um arquivo, criar algo novo ou remover o que não é mais necessário, a pessoa envia de volta para o servidor apenas os arquivos que mudaram.
 
-O servidor recebe essas alterações, atualiza os arquivos do projeto e registra tudo no histórico, incluindo quem realizou cada mudança.
+O servidor recebe essas alterações e, quando necessário, realiza a mesclagem.\
+Mesclar significa juntar mudanças feitas por pessoas diferentes, combinando o que já existia no projeto com o que acabou de ser enviado. Quando as alterações não se sobrepõem, essa junção acontece de forma automática. Em seguida, o servidor atualiza os arquivos do projeto e registra tudo no histórico, incluindo quem realizou cada mudança.
 
 Esse processo acontece em um ciclo contínuo: as pessoas copiam a versão mais recente dos arquivos do servidor para a máquina local, fazem suas mudanças localmente e enviam de volta o que foi alterado. À medida que o projeto evolui, esse ciclo se repete várias vezes, com diferentes pessoas contribuindo.
 
@@ -78,12 +79,12 @@ Esse processo acontece em um ciclo contínuo: as pessoas copiam a versão mais r
 
 Quando duas ou mais pessoas mexem no mesmo arquivo, surgem situações chamadas de **conflitos**.
 
-Existem diferentes formas de lidar com isso, e equipes diferentes fazem escolhas diferentes. Algumas preferem usar um sistema de aviso, em que o arquivo fica temporariamente bloqueado enquanto alguém o edita, impedindo que outras pessoas mexam nele ao mesmo tempo.
+Existem diferentes formas de lidar com isso, e equipes diferentes fazem escolhas diferentes. Algumas preferem usar um sistema de bloqueio (_lock_), em que o arquivo fica temporariamente bloqueado enquanto alguém o edita, impedindo que outras pessoas mexam nele ao mesmo tempo.
 
 Outras equipes preferem deixar todo mundo editar livremente e resolver os problemas depois. Nesse caso, quando as mudanças chegam ao servidor, elas são comparadas e reunidas. Se duas pessoas alterarem exatamente a mesma parte de um arquivo, alguém precisa revisar e ajustar o conteúdo para que tudo faça sentido novamente.
 
 ***
 
-Em resumo, essa é a dinâmica geral dos sistemas de controle de versão centralizados: um servidor guarda o repositório, registra o histórico e organiza o ciclo de copiar arquivos, modificar localmente e enviar alterações de volta para o ponto central.
+Em resumo, essa é a dinâmica geral dos sistemas de controle de versão centralizados: um servidor guarda o repositório, registra o histórico e organiza o ciclo de copiar arquivos, modificar localmente e enviar alterações de volta para o ponto central. Sistemas como o Subversion (SVN) e o Microsoft Team Foundation Version Control (TFVC) seguem exatamente esse modelo.
 
 Na próxima seção, vamos acompanhar um exemplo concreto desse fluxo, passo a passo, para ver como tudo isso acontece na prática.

@@ -45,6 +45,7 @@
 * [2.3 O quê são Sistemas de Controle de Versão?](2-sistemas-de-controle-de-versao/2.1-introducao-a-sistemas-de-controle-de-versao-1.md)
 * [2.4 Sistemas Centralizados](2-sistemas-de-controle-de-versao/2.1.1-sistemas-de-controle-de-versao-centralizados/README.md)
   * [2.4.1 Exemplo de fluxo de trabalho](2-sistemas-de-controle-de-versao/2.1.1-sistemas-de-controle-de-versao-centralizados/2.4.1-exemplo-de-fluxo-de-trabalho.md)
+  * [2.4.2 Limitações](2-sistemas-de-controle-de-versao/2.1.1-sistemas-de-controle-de-versao-centralizados/2.4.2-limitacoes.md)
 * [2.5 Sistemas Distribuídos](2-sistemas-de-controle-de-versao/2.1.2-sistemas-de-controle-de-versao-distribuidos.md)
 * [2.6 O que é importante levar deste capítulo](2-sistemas-de-controle-de-versao/2.1.2-sistemas-de-controle-de-versao-distribuidos-1.md)
 * [2.7 Links Úteis: Capítulo 2](2-sistemas-de-controle-de-versao/2.9-links-uteis-capitulo-2.md)
