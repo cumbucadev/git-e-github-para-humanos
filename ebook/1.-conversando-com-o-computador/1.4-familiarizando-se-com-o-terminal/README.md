@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 1.4 Familiarizando-se com o terminal
 
 Agora que já falamos sobre como dar ordens ao computador por meio de texto, é hora de conhecer o lugar onde essa conversa acontece: o **terminal**.
@@ -21,6 +38,12 @@ Usar o terminal é sempre seguir o mesmo ciclo:
 5. o terminal pode devolver uma saída, que corresponde ao resultado da execução da ordem ou a uma mensagem de erro..
 
 Essa dinâmica é fundamental para entender o que está acontecendo.
+
+<figure><img src="../../.gitbook/assets/0423.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/0424.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/0425.png" alt=""><figcaption></figcaption></figure>
 
 ### Cada linha é um comando
 

@@ -56,17 +56,17 @@
 ## 3 Prazer, Git
 
 * [3.1 Sobre este capítulo](3-prazer-git/3.1-sobre-este-capitulo.md)
-* [3.1 O quê é o Git?](3-prazer-git/2.2-introducao-ao-git.md)
-* [3.2 Instalando o Git](3-prazer-git/2.4-instalando-o-git/README.md)
-  * [3.2.1 Instalando no Linux](3-prazer-git/2.4-instalando-o-git/2.4.1-instalando-no-linux.md)
-  * [3.2.2 Instalando no macOS](3-prazer-git/2.4-instalando-o-git/2.4.2-instalando-no-macos.md)
-  * [3.2.3 Instalando no Windows](3-prazer-git/2.4-instalando-o-git/2.4.3-instalando-no-windows.md)
-* [3.3 Interagindo com o Git](3-prazer-git/2.5-interagindo-com-o-git.md)
-* [3.4 O Comando Git](3-prazer-git/2.6-o-comando-git.md)
-* [3.5 Pedindo ajuda via \`git help\`](3-prazer-git/2.6-o-comando-git-1.md)
-* [3.x Sua vez!](3-prazer-git/3.2.7-exemplo-pratico.md)
-* [3.x Links Úteis: Capítulo 3](3-prazer-git/2.9-links-uteis-capitulo-2.md)
-* [3.x Glossário: Capítulo 3](3-prazer-git/2.10-glossario-capitulo-2.md)
+* [3.2 O quê é o Git?](3-prazer-git/2.2-introducao-ao-git.md)
+* [3.3 Instalando o Git](3-prazer-git/2.4-instalando-o-git/README.md)
+  * [3.3.1 Instalando no Linux](3-prazer-git/2.4-instalando-o-git/2.4.1-instalando-no-linux.md)
+  * [3.3.2 Instalando no macOS](3-prazer-git/2.4-instalando-o-git/2.4.2-instalando-no-macos.md)
+  * [3.3.3 Instalando no Windows](3-prazer-git/2.4-instalando-o-git/2.4.3-instalando-no-windows.md)
+* [3.4 Interagindo com o Git](3-prazer-git/2.5-interagindo-com-o-git.md)
+* [3.5 O Comando Git](3-prazer-git/2.6-o-comando-git.md)
+* [3.6 Pedindo ajuda via \`git help\`](3-prazer-git/2.6-o-comando-git-1.md)
+* [3.7 Sua vez!](3-prazer-git/3.2.7-exemplo-pratico.md)
+* [3.8 Links Úteis: Capítulo 3](3-prazer-git/2.9-links-uteis-capitulo-2.md)
+* [3.9 Glossário: Capítulo 3](3-prazer-git/2.10-glossario-capitulo-2.md)
 
 ## 4 Operações Locais Básicas no Git
 
