@@ -64,7 +64,7 @@
 * [3.4 Interagindo com o Git](3-prazer-git/2.5-interagindo-com-o-git.md)
 * [3.5 O Comando Git](3-prazer-git/2.6-o-comando-git.md)
 * [3.6 Pedindo ajuda via \`git help\`](3-prazer-git/2.6-o-comando-git-1.md)
-* [3.7 Sua vez!](3-prazer-git/3.2.7-exemplo-pratico/README.md)
+* [3.7 Sua vez!](3-prazer-git/3.2.7-exemplo-pratico.md)
   * [Exercício 1](3-prazer-git/3.2.7-exemplo-pratico/exercicio-1.md)
   * [Solução Exercício 1](3-prazer-git/3.2.7-exemplo-pratico/solucao-exercicio-1.md)
 * [3.8 Links Úteis: Capítulo 3](3-prazer-git/2.9-links-uteis-capitulo-2.md)
