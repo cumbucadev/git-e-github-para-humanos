@@ -67,6 +67,8 @@
 * [3.7 Sua vez!](3-prazer-git/3.2.7-exemplo-pratico.md)
   * [Exercício 1](3-prazer-git/3.2.7-exemplo-pratico/exercicio-1.md)
   * [Solução Exercício 1](3-prazer-git/3.2.7-exemplo-pratico/solucao-exercicio-1.md)
+  * [Exercício 2](3-prazer-git/3.2.7-exemplo-pratico/exercicio-2.md)
+  * [Solução Exercício 2](3-prazer-git/3.2.7-exemplo-pratico/solucao-exercicio-2.md)
 * [3.8 Links Úteis: Capítulo 3](3-prazer-git/2.9-links-uteis-capitulo-2.md)
 * [3.9 Glossário: Capítulo 3](3-prazer-git/2.10-glossario-capitulo-2.md)
 
