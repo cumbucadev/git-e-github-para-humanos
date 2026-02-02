@@ -55,6 +55,7 @@
 
 ## 3 Prazer, Git
 
+* [3.1 Sobre este capítulo](3-prazer-git/3.1-sobre-este-capitulo.md)
 * [3.1 O quê é o Git?](3-prazer-git/2.2-introducao-ao-git.md)
 * [3.2 Instalando o Git](3-prazer-git/2.4-instalando-o-git/README.md)
   * [3.2.1 Instalando no Linux](3-prazer-git/2.4-instalando-o-git/2.4.1-instalando-no-linux.md)
