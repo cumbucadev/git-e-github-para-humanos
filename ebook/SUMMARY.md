@@ -74,6 +74,7 @@
 
 ## 4 Operações Locais Básicas no Git
 
+* [4.1 Sobre este capítulo](4-operacoes-locais-basicas-no-git/4.1-sobre-este-capitulo.md)
 * [4.1 O quê é um Repositório Git?](4-operacoes-locais-basicas-no-git/2.3.1-repositorio.md)
 * [4.2 Inicializando de um Repositório Git](4-operacoes-locais-basicas-no-git/2.7-inicializando-de-um-repositorio-local.md)
 * [4.3 Configurando o seu Git](4-operacoes-locais-basicas-no-git/2.8-configurando-de-um-repositorio-local.md)
