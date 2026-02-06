@@ -75,13 +75,13 @@
 ## 4 Operações Locais Básicas no Git
 
 * [4.1 Sobre este capítulo](4-operacoes-locais-basicas-no-git/4.1-sobre-este-capitulo.md)
-* [4.1 O quê é um Repositório Git?](4-operacoes-locais-basicas-no-git/2.3.1-repositorio.md)
-* [4.2 Inicializando de um Repositório Git](4-operacoes-locais-basicas-no-git/2.7-inicializando-de-um-repositorio-local.md)
-* [4.3 Configurando o seu Git](4-operacoes-locais-basicas-no-git/2.8-configurando-de-um-repositorio-local.md)
-* [4.4 Explorando Operações Locais do Git](4-operacoes-locais-basicas-no-git/3.1-explorando-operacoes-locais-do-git.md)
-* [4.x Sua vez!](4-operacoes-locais-basicas-no-git/3.2.7-exemplo-pratico.md)
-* [4.x Links Úteis: Capítulo 4](4-operacoes-locais-basicas-no-git/2.9-links-uteis-capitulo-2.md)
-* [4.x Glossário: Capítulo 4](4-operacoes-locais-basicas-no-git/2.10-glossario-capitulo-2.md)
+* [4.2 O quê é um Repositório Git?](4-operacoes-locais-basicas-no-git/2.3.1-repositorio.md)
+* [4.3 Inicializando de um Repositório Git](4-operacoes-locais-basicas-no-git/2.7-inicializando-de-um-repositorio-local.md)
+* [4.4 Configurando o seu Git](4-operacoes-locais-basicas-no-git/2.8-configurando-de-um-repositorio-local.md)
+* [4.5 Explorando Operações Locais do Git](4-operacoes-locais-basicas-no-git/3.1-explorando-operacoes-locais-do-git.md)
+* [4.6 Sua vez!](4-operacoes-locais-basicas-no-git/3.2.7-exemplo-pratico.md)
+* [4.7 Links Úteis: Capítulo 4](4-operacoes-locais-basicas-no-git/2.9-links-uteis-capitulo-2.md)
+* [4.8 Glossário: Capítulo 4](4-operacoes-locais-basicas-no-git/2.10-glossario-capitulo-2.md)
 
 ## 5 Salvando Alterações Localmente
 
