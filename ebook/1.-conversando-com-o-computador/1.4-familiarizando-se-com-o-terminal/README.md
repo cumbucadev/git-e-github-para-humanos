@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 1.4 Familiarizando-se com o terminal
 
 Agora que já falamos sobre como dar ordens ao computador por meio de texto, é hora de conhecer o lugar onde essa conversa acontece: o **terminal**.

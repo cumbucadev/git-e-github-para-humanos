@@ -2,20 +2,6 @@
 description: >-
   Como instalar o Git nos 3 principais Sistemas Operacionais:  Linux, Mac e
   Windows!
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 3.3 Instalando o Git

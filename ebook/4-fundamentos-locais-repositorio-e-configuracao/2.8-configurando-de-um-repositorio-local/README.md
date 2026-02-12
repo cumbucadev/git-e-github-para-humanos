@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 4.4 Configurações do Git local
 
 Nesta seção, vamos entender o que são as configurações do Git e como elas ajudam a definir o comportamento da ferramenta. Você verá como essas configurações são organizadas, como são nomeadas e onde ficam armazenadas, preparando o terreno para os próximos tópicos.

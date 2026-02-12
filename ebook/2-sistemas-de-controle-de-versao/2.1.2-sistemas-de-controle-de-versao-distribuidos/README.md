@@ -2,20 +2,6 @@
 description: >-
   O quê são sistemas de controle de versão centralizados e distribuídos e quais
   são as suas diferenças
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 2.5 Sistemas Distribuídos
