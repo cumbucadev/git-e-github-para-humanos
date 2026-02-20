@@ -100,11 +100,9 @@
   * [5.4.1 Exemplo 1](5-salvando-alteracoes-localmente-1/5.4-como-salvar-no-git/5.4.1-exemplo-1.md)
   * [5.4.2 Exemplo 2](5-salvando-alteracoes-localmente-1/5.4-como-salvar-no-git/5.4.2-exemplo-2.md)
 * [5.5 Rastreamento de um arquivo](5-salvando-alteracoes-localmente-1/5.5-rastreamento-de-um-arquivo.md)
-* [5.6 Unindo os Pontos](5-salvando-alteracoes-localmente-1/3.2.6-unindo-os-pontos.md)
-* [5.7 Exemplo Prático](5-salvando-alteracoes-localmente-1/3.2.7-exemplo-pratico.md)
-* [5.8 Sua vez!](5-salvando-alteracoes-localmente-1/3.2.7-exemplo-pratico-1.md)
-* [5.9 Links Úteis: Capítulo 5](5-salvando-alteracoes-localmente-1/3.4-links-uteis-capitulo-3.md)
-* [5.10 Glossário: Capítulo 5](5-salvando-alteracoes-localmente-1/3.5-glossario-capitulo-3.md)
+* [5.6 O que é importante levar deste capítulo](5-salvando-alteracoes-localmente-1/3.2.6-unindo-os-pontos.md)
+* [5.7 Links Úteis: Capítulo 5](5-salvando-alteracoes-localmente-1/3.4-links-uteis-capitulo-3.md)
+* [5.8 Glossário: Capítulo 5](5-salvando-alteracoes-localmente-1/3.5-glossario-capitulo-3.md)
 
 ## 6 Salvando Alterações Localmente 2
 
