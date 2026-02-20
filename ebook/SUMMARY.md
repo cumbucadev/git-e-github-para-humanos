@@ -94,7 +94,7 @@
 ## 5 Salvando Alterações Localmente 1
 
 * [5.1 Sobre este capítulo](5-salvando-alteracoes-localmente-1/5.1-sobre-este-capitulo.md)
-* [5.2 Salvando Alterações Localmente](5-salvando-alteracoes-localmente-1/3.2-salvando-alteracoes-localmente.md)
+* [5.2 O quê significa "salvar" no Git?](5-salvando-alteracoes-localmente-1/3.2-salvando-alteracoes-localmente.md)
 * [5.3 Áreas locais do Git](5-salvando-alteracoes-localmente-1/5.3-areas-locais-do-git.md)
 * [5.4 Como salvar no Git](5-salvando-alteracoes-localmente-1/5.4-como-salvar-no-git.md)
 * [5.5 Rastreamento de um arquivo](5-salvando-alteracoes-localmente-1/5.5-rastreamento-de-um-arquivo.md)
@@ -297,8 +297,8 @@
   * [17.3.6 Sincronizando um Fork no GitHub](17-fluxo-de-trabalho/11.2-forks-e-pull-requests/11.2.6-sincronizando-um-fork-no-github.md)
   * [17.3.7 Revisão, Mesclagem e Atualizações Pós-mesclagem](17-fluxo-de-trabalho/11.2-forks-e-pull-requests/11.2.7-revisao-mesclagem-e-atualizacoes-pos-mesclagem.md)
 * [17.4 Fluxo de Trabalho](17-fluxo-de-trabalho/11.3-fluxo-de-trabalho.md)
-* [17.5 Links Úteis - Capítulo 17](17-fluxo-de-trabalho/11.4-links-uteis-capitulo-11.md)
-* [17.6 Glossário - Capítulo 17](17-fluxo-de-trabalho/11.5-glossario-capitulo-11.md)
+* [17.5 Links Úteis: Capítulo 17](17-fluxo-de-trabalho/11.4-links-uteis-capitulo-11.md)
+* [17.6 Glossário: Capítulo 17](17-fluxo-de-trabalho/11.5-glossario-capitulo-11.md)
 
 ## 18 O Caminho Continua
 
@@ -308,12 +308,11 @@
 * [18.3 Explorando Projetos Open Source](18-o-caminho-continua/12.2-explorando-projetos-open-source.md)
 * [18.4 Crescendo e Colaborando em Comunidades](18-o-caminho-continua/12.3-crescendo-e-colaborando-em-comunidades.md)
 * [18.5 Desafio: GitCaos 🔥](18-o-caminho-continua/12.4-desafio-gitcaos.md)
-* [18.6 Links Úteis - Capítulo 18](18-o-caminho-continua/12.5-links-uteis-capitulo-12.md)
+* [18.6 Links Úteis: Capítulo 18](18-o-caminho-continua/12.5-links-uteis-capitulo-12.md)
 * [18.7 Glossário Completo: Git e GitHub para Humanos](18-o-caminho-continua/12.6-glossario-completo-git-e-github-para-humanos.md)
 
 ## Outros
 
-* [1.8 Glossário: capítulo 1](outros/1.8-glossario-capitulo-1.md)
 * [2.3 Conceitos Fundamentais do Git](outros/2.3-conceitos-fundamentais-do-git/README.md)
   * [2.3.2 Commit](outros/2.3-conceitos-fundamentais-do-git/2.3.2-commit.md)
   * [2.3.3 Branch](outros/2.3-conceitos-fundamentais-do-git/2.3.3-branch.md)
