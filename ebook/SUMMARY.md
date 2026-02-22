@@ -107,7 +107,11 @@
 ## 6 Salvando Alterações Localmente 2
 
 * [6.1 Sobre este capítulo](6-salvando-alteracoes-localmente-2/6.1-sobre-este-capitulo.md)
-* [6.2 Manipulação de arquivos](6-salvando-alteracoes-localmente-2/6.2-manipulacao-de-arquivos.md)
+* [6.2 Manipulação de arquivos](6-salvando-alteracoes-localmente-2/6.2-manipulacao-de-arquivos/README.md)
+  * [6.2.1 Editor de Código](6-salvando-alteracoes-localmente-2/6.2-manipulacao-de-arquivos/9.3.3.1-editor-de-codigo.md)
+  * [6.2.2 Visual Studio Code](6-salvando-alteracoes-localmente-2/6.2-manipulacao-de-arquivos/9.3.3.1-editor-de-codigo-1.md)
+  * [6.2.3 Conceitos do Visual Studio Code](6-salvando-alteracoes-localmente-2/6.2-manipulacao-de-arquivos/9.3.3.1-editor-de-codigo-2.md)
+  * [6.2.4 Manipulando arquivos no Visual Studio Code](6-salvando-alteracoes-localmente-2/6.2-manipulacao-de-arquivos/9.3.3.1-editor-de-codigo-3.md)
 * [6.3 Adicionando arquivos à Staging Area](6-salvando-alteracoes-localmente-2/6.3-adicionando-arquivos-a-staging-area/README.md)
   * [6.3.1 Adicionando Arquivos à Área de Preparação via \`git add\`](6-salvando-alteracoes-localmente-2/6.3-adicionando-arquivos-a-staging-area/3.2.1-adicionando-arquivos-ao-controle-de-versao-via-git-add.md)
 * [6.4 Identificando alterações locais](6-salvando-alteracoes-localmente-2/6.4-identificando-alteracoes-locais/README.md)
