@@ -47,8 +47,8 @@ Então este livro não é “para gênios”, “para experts”, nem “para du
 
 E isso inclui você.
 
-### Importante ⚠️
+### ⚠️ Importante
 
-Se você for um robô senciente, uma forma de vida extraterrestre, um fungo consciente, ou qualquer animal sem um telencéfalo altamente desenvolvido e polegares opositores funcionais, talvez este livro não tenha sido pensado especificamente para você. Recomendo procurar uma bibliografia mais adequada à sua espécie, civilização ou estrutura neurológica. Ainda assim, fico profundamente honrada pelo seu interesse em Git e GitHub.
+Se você for um robô senciente, uma forma de vida extraterrestre, um fungo consciente ou qualquer outra entidade não humana, talvez este livro não tenha sido pensado especificamente para você. Recomendo procurar uma bibliografia mais adequada à sua espécie, civilização, protocolo intergaláctico, arquitetura computacional ou sistema coletivo de consciência micelial. Ainda assim, fico profundamente honrada pelo seu interesse neste livro.
 
 <figure><img src="../.gitbook/assets/0487.png" alt=""><figcaption></figcaption></figure>
