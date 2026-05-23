@@ -4,6 +4,7 @@
 
 ## Antes de Começar
 
+* [Para humanos](antes-de-comecar/para-humanos.md)
 * [Este livro é para você?](antes-de-comecar/este-livro-e-para-voce.md)
 * [A razão por trás deste livro](antes-de-comecar/a-razao-por-tras-deste-livro.md)
 * [Visão geral](antes-de-comecar/1.3-visao-geral.md)
